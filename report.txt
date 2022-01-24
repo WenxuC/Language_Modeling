@@ -1,0 +1,26 @@
+1. Unique words in training corpus: 41738
+
+2. Word tokens in training corpus 2468210
+
+3. 
+  a. Word tokens in training corpus 2468210
+  b. Percentage of word type 3.61%
+  
+4.
+  a. Percentage of word tokens 21.56%
+  b. Percentage of word type 25.16%
+  
+5.
+  a.	Unigram: -89.74
+  b.	Bigram: This 'your | hearing' is not in the training
+  c.	Bigram with add one smoothing: -97.14
+  
+6.
+  a.	Perplexity unigram: 1003.7306831109403
+  b.	Perplexity bigram: N/A
+  c.	Perplexity bigram with add-one smoothing: 1774.5754047999028
+
+7.
+  a.	Perplexity Unigram:  1097.1903087439796
+  b.	Perpexlity Bigram: Undefined
+  c.	Perplexity Bigram with add one smoothing:  1459.0200327009695
