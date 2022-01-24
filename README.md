@@ -1,6 +1,9 @@
 # Language_Modeling
 Natural language modeling project
 
+# How to run
+Run the main.py first to perform the pre-process, then run training_models.py to perform all the calculations
+
 # Main.py
 Performs the pre-processing on the training and the test files.
 1. Pad each sentence in the training and test corpora with start and end symbols (you can
