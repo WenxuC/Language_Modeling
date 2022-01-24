@@ -1,7 +1,7 @@
 # Language_Modeling
 Natural language modeling project
 
-#Main.py
+# Main.py
 Performs the pre-processing on the training and the test files.
 1. Pad each sentence in the training and test corpora with start and end symbols (you can
 use <s> and </s>, respectively).
